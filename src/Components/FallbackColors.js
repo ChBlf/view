@@ -1,4 +1,4 @@
-import '../index.css';
+import '../css/index.css';
 
 let rr = Math.round(Math.random()*256)
 let rg = Math.round(Math.random()*256)

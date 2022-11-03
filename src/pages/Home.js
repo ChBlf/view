@@ -3,7 +3,7 @@ import ColorView from '../Components/ColorView';
 import Text from '../Components/Text';
 import Circle from '../Components/Circle';
 import PercentPanel from '../Components/PercentPanel';
-import '../index.css';
+import '../css/index.css';
 import RandomColorButton from '../Components/RandomColorButton';
 import Navbar from '../Components/Navbar';
 import GetColor from '../Components/GetColor';

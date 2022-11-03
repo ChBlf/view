@@ -1,5 +1,5 @@
 import React from 'react';
-import '../index.css';
+import '../css/index.css';
 import GetColor from './GetColor'
 import RandomColor from './FallbackColors';
 import ShuffleIcon from '@mui/icons-material/Shuffle';

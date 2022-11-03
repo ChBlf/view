@@ -1,5 +1,5 @@
 import React from 'react';
-import '../howTo.css';
+import '../css/howTo.css';
 import HowToBox from '../Components/HowToBox';
 import GetColor from '../Components/GetColor';
 

@@ -1,5 +1,5 @@
 import React from 'react';
-import '../index.css';
+import '../css/index.css';
 import QuestionMarkIcon from '@mui/icons-material/QuestionMark';
 import PaletteIcon from '@mui/icons-material/Palette';
 import CodeIcon from '@mui/icons-material/Code';

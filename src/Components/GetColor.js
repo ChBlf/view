@@ -1,4 +1,4 @@
-import '../index.css';
+import '../css/index.css';
 import RandomColor from './FallbackColors';
 import { useSearchParams } from 'react-router-dom';
 

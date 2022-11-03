@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import '../index.css';
+import '../css/index.css';
 import ResBox from './ResBox';
 import GetColor from './GetColor';
 

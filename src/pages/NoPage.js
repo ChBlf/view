@@ -1,5 +1,5 @@
 import React from 'react';
-import '../nopage.css'
+import '../css/nopage.css'
 import GetColor from '../Components/GetColor';
 
 export default function NoPage(){
