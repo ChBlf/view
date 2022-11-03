@@ -1,2 +1,0 @@
-# View color
-## by Blfr
