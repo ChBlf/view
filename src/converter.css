@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+body, html {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+@media only screen and (min-width: 1264px) {
+
+    #hex {
+        width: 20vw;
+        height: 5vh;
+        border: none;
+        text-align: center;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 30px;
+        border-bottom: 2px solid black;
+        background: none;
+    }
+
+    #hex:focus {outline:none!important;}
+
+    #hex::placeholder {
+        color: rgb(54, 54, 54);
+    }
+
+    .resBoxHextoRGB {
+        width: 20vw;
+        height: 10vh;
+        position: absolute;
+        top: 10%;
+        left: 40%;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 30px;
+        border-radius: 10px;
+        text-align: center;
+    }
+
+    #infoWarn {
+        position: absolute;
+        bottom: 1%;
+        left: 5%;
+        font-family: 'Montserrat', sans-serif;
+    }
+
+}
+
+@media only screen and (max-width: 1264px) {
+
+    #hex {
+        width: 50vw;
+        height: 5vh;
+        border: none;
+        text-align: center;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 3vh;
+        border-bottom: 2px solid black;
+        background: none;
+    }
+    
+    #hex:focus {outline:none!important;}
+    
+    #hex::placeholder {
+        color: rgb(54, 54, 54);
+    }
+    
+    .resBoxHextoRGB {
+        width: 50vw;
+        height: 10vh;
+        position: absolute;
+        top: 10%;
+        left: 25%;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 30px;
+        border-radius: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    
+    #infoWarn {
+        position: absolute;
+        bottom: 1%;
+        left: 5%;
+        font-family: 'Montserrat', sans-serif;
+    }
+
+}
