@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import '../css/index.css';
+import '../../css/index.css';
 import ResBox from './ResBox';
-import GetColor from './GetColor';
+import GetColor from '../GetColor';
 
 const Text = (props) => {
 

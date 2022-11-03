@@ -1,7 +1,7 @@
 import React from 'react';
-import '../css/index.css';
-import GetColor from './GetColor'
-import RandomColor from './FallbackColors';
+import '../../css/index.css';
+import GetColor from '../GetColor'
+import RandomColor from '../FallbackColors';
 import ShuffleIcon from '@mui/icons-material/Shuffle';
 
 const RandomColorButton = (props) => {

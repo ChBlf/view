@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import '../css/converter.css';
+import '../../css/converter.css';
 
 class ResBox extends Component{
     render(){

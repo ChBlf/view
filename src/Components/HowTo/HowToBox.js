@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import '../css/howTo.css';
+import '../../css/howTo.css';
 
 class HowToBox extends Component{
 render(){

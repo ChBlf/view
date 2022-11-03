@@ -1,7 +1,7 @@
 import React from 'react';
 import '../css/converter.css';
 import RandomColor from '../Components/FallbackColors';
-import Input from '../Components/Input';
+import Input from '../Components/Converter/Input';
 import GetColor from '../Components/GetColor';
 
 export default function Converter(){    

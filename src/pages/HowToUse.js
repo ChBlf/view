@@ -1,6 +1,6 @@
 import React from 'react';
 import '../css/howTo.css';
-import HowToBox from '../Components/HowToBox';
+import HowToBox from '../Components/HowTo/HowToBox';
 import GetColor from '../Components/GetColor';
 
 export default function HowToUse(){

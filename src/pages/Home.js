@@ -1,10 +1,10 @@
 import React from 'react';
-import ColorView from '../Components/ColorView';
-import Text from '../Components/Text';
-import Circle from '../Components/Circle';
-import PercentPanel from '../Components/PercentPanel';
+import ColorView from '../Components/Home/ColorView';
+import Text from '../Components/Home/Text';
+import Circle from '../Components/Home/Circle';
+import PercentPanel from '../Components/Home/PercentPanel';
 import '../css/index.css';
-import RandomColorButton from '../Components/RandomColorButton';
+import RandomColorButton from '../Components/Home/RandomColorButton';
 import Navbar from '../Components/Navbar';
 import GetColor from '../Components/GetColor';
 

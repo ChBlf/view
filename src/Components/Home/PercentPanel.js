@@ -1,6 +1,6 @@
 import React from 'react';
-import '../css/index.css';
-import GetColor from './GetColor';
+import '../../css/index.css';
+import GetColor from '../GetColor';
 
 const PercentPanel = (props) => {
 

@@ -18,8 +18,11 @@ export default function NoPage(){
 
         return(
         <div>
-            <h1 style={{color: `rgba(${max}, ${max}, ${max}, .9)`}}>404</h1>
-            <h3 style={{color: `rgba(${max}, ${max}, ${max}, .9)`}}>Page not found!</h3>
+            <h1 style={{color: `rgba(${max}, ${max}, ${max}, .9)`}}>
+                404
+                <h3 style={{color: `rgba(${max}, ${max}, ${max}, .9)`}}>Page not found!</h3>
+            </h1>
+            
         </div>
         )
 
